@@ -1,7 +1,7 @@
 # Basic
 title: 杨胜涛
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 深圳求职中（java后端）~
 # 头像里面的标题
 avatarTitle: magicyst
 # 头像里面的描述
@@ -12,7 +12,7 @@ url: "http://magiclu.xyz"
 comment:
     disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
-
+	
 # Social
 social:
     weibo: 违规代码之路 
