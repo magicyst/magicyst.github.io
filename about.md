@@ -27,7 +27,14 @@ java基础体现在：多线程，网络编程，设计模式。
 
 博客源码在 <a target="_blank" href='https://github.com/magicyst/magicyst.github.io'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
+
+----------
+
+
+<h3> 家规 </h3>  
 <p> 
+
+ 1. 相应场景下，相互爱称时，需严肃对待，违者酌情惩戒。
 
 <p> 
 
